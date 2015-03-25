@@ -1,3 +1,6 @@
 {
-"remoteManifestUrl" : "http://syuhari.jp/assets_manager/project.manifest"
+    "packageUrl" : "http://localhost:8000/",
+    "remoteVersionUrl" : "http://localhost:8000/version.manifest",
+    "remoteManifestUrl" : "http://localhost:8000/project.manifest",
+    "version" : "1.0.0"
 }
